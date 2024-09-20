@@ -35,7 +35,7 @@ macOS comes with OpenSSH pre-installed. However, you may want to install or upda
 
 To check if OpenSSH is installed, open the Terminal and run:
 
-![](openssh.png)
+![fhj](openssh.png)
 ```bash
 ssh -V
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
