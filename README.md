@@ -3,6 +3,8 @@
 
 OpenSSH is a suite of secure networking utilities based on the SSH protocol. This repository provides documentation for installing, configuring, and using OpenSSH on macOS.
 
+![alttext](image2.png)
+
 ## Overview
 
 - [Installation on macOS](docs/macos-installation.md)
@@ -29,8 +31,11 @@ macOS comes with OpenSSH pre-installed. However, you may want to install or upda
 
 ## Check Existing Installation
 
+
+
 To check if OpenSSH is installed, open the Terminal and run:
 
+![](openssh.png)
 ```bash
 ssh -V
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
